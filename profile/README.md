@@ -2,7 +2,8 @@
 
 Welcome to the organization page of the open-source project MagicMirror³.
 
-The main goal is to enhance your [MagicMirror²9(https://github.com/MichMich/MagicMirror) project with a smartphone app and face recognition.
+The main goal is to enhance your [MagicMirror²](https://github.com/MichMich/MagicMirror) project with a smartphone app and face recognition.
+Please do check out the [MagicMirror²](https://magicmirror.builders/) open source project, since it lays the foundation for this project and served as a huge inspiration.
 
 This README contains the most relevant information about the project and how to use it. Check out the corresponding GitHub Wiki pages of the repositories for further information and elaborate explanations.
 
