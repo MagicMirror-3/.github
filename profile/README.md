@@ -6,6 +6,8 @@ The main goal is to enhance your [MagicMirror²9(https://github.com/MichMich/Mag
 
 This README contains the most relevant information about the project and how to use it. Check out the corresponding GitHub Wiki pages of the repositories for further information and elaborate explanations.
 
+Tasks and planned features can be seen on our [project board](https://github.com/orgs/MagicMirror-3/projects/1).
+
 ## Components
 The MagicMirror³ software stack consists of three separate components:
 - The [MagicController](https://github.com/MagicMirror-3/MagicController) acting as a controlling unit and enabling the face recognition on your Raspberry Pi.
