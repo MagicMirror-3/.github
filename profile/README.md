@@ -1,5 +1,26 @@
-## Hi there 👋
+# MagicMirror³
 
+Welcome to the organization page of the open-source project MagicMirror³.
+
+The main goal is to enhance your [MagicMirror²9(https://github.com/MichMich/MagicMirror) project with a smartphone app and face recognition.
+
+This README contains the most relevant information about the project and how to use it. Check out the corresponding GitHub Wiki pages of the repositories for further information and elaborate explanations.
+
+## Components
+The MagicMirror³ software stack consists of three separate components:
+- The [MagicController](https://github.com/MagicMirror-3/MagicController) acting as a controlling unit and enabling the face recognition on your Raspberry Pi.
+- The [MagicApp](https://github.com/MagicMirror-3/MagicApp) allowing you to customize your MagicMirror² layout with your smartphone.
+- The [MagicModule](https://github.com/MagicMirror-3/MagicModule) enabling a smooth refresh animation of the screen.
+
+## Installation and usage
+The installation is kept as simple as possible.
+
+The entire needed software stack for the Rasperry Pi is installed via a single script that can be found on the releases page of the MagicController.
+
+The MagicApp can only be installed via the repository for now, but PlayStore and AppStore support is coming soon.
+
+## Contribution
+tbd.
 <!--
 
 **Here are some ideas to get you started:**
