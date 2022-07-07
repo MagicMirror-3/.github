@@ -23,7 +23,8 @@ The entire needed software stack for the Rasperry Pi is installed via a single s
 The MagicApp can only be installed via the repository for now, but PlayStore and AppStore support is coming soon.
 
 ## Contribution
-tbd.
+Check out our [Contribution guidelines](https://github.com/MagicMirror-3/.github/blob/main/docs/CONTRIBUTING.md) if you want to contribute to the project
+
 <!--
 
 **Here are some ideas to get you started:**
