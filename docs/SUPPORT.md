@@ -1,1 +1,1 @@
-More information [here](https://docs.github.com/en/articles/adding-support-resources-to-your-project)
+Sadly, we don't have any support channels aside from GitHub issues and discussions for now.
