@@ -14,7 +14,9 @@ An idea can be both a bug report and a feature suggestion issue. To account for 
 Please also make sure to always choose the correct repository to avoid confusion.
 
 ## Contribute code
-Contributing code is slightly more complicated than opening an issue. However, we stil try to make it as easy as possible, which is why we provided pull request templates you can use to describe the bugfix or feature implementation. Your code has to fullfill the following requirements:
+Contributing code is slightly more complicated than opening an issue. However, we still try to make it as easy as possible, which is why we provided pull request templates you can use to describe the bugfix or feature implementation.
+
+First off, please always merge your changes into `develop`.
 
 ### Naming convention
 Please always use **camelCase** when naming your variables and methods.
